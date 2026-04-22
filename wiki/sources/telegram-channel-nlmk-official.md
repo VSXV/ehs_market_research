@@ -1,7 +1,7 @@
 ---
 type: source
 tags: [raw, telegram, nlmk, metallurgy]
-updated: 2026-04-19
+updated: 2026-04-22
 sources: 1
 ---
 
@@ -26,9 +26,12 @@ sources: 1
 ## Что уже извлечено во вики
 
 - [[segments/large-steelmakers-russia-tg]]
+- [[segments/large-industrial-enterprises-russia-tg]]
 - [[trends/otipb-corporate-priority]]
 - [[trends/digitalization-ecology-industrial-safety]]
 - [[trends/ai-operations-hse-potential]]
 - [[trends/professional-competitions-otipb-scoring]]
+- [[trends/cross-industry-safety-digitalization-signals]]
+- [[trends/workforce-training-vr-competitions-safety]]
 - [[regulation/world-ot-day-employee-engagement]]
 - [[products/ehs-software-signals-in-pr-narrative]]
