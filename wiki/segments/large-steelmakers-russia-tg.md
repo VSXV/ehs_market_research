@@ -1,7 +1,7 @@
 ---
 type: segment
 tags: [segment, metallurgy, russia, tg-signals]
-updated: 2026-04-19
+updated: 2026-04-22
 sources: 2
 ---
 
@@ -21,6 +21,10 @@ sources: 2
 
 - [[sources/telegram-channel-mmk-official]]
 - [[sources/telegram-channel-nlmk-official]]
+
+## Связь с расширенным сегментом
+
+- Для кросс-отраслевого контекста см. [[segments/large-industrial-enterprises-russia-tg]].
 
 ## Связанные тренды
 
